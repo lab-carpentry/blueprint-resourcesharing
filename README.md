@@ -7,6 +7,15 @@ In instances where the University owns content produced under the grant, a well-
 Since Universities are generally the recipient of the grant and approve its content, a resource sharing plan can legally obligate a University to allow researchers to openly license their research.
 Furthermore, an explicit resource sharing plan can prevent delays associated with receiving licensing approval from your University's licensing office.
 
+## Reuse
+
+The goal of this resource to help spread best practices in research sharing.
+Hence, it's released under a [CC0 public domain dedication](LICENSE.md).
+Please use or modify its content in any way you see fit.
+You are not required to attribute this repository when reusing its contents.
+However, feedback is appreciated.
+If you receive comments on your grant related to these resource sharing plans, we'd love to know.
+
 ## Disclaimer
 
 **This repository is for informational purposes only and does not provide legal advice.**
