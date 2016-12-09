@@ -1,20 +1,26 @@
-# Lab Carpentry: a template resource sharing plan for grants
+# Lab Carpentry: example resource sharing plan for grants
 
-This repository contains a [template resource sharing plan](resource-sharing-plan.md) for grants.
-The goal of the plan is to ensure project content created under the grant is openly released.
+This repository contains example resource sharing plans for grants.
+The purpose of these plans is to ensure that content produced from grants is openly released.
 
-In instances where the University owns content produced under the grant, a well-crafted resource sharing plan is often the best way to ensure the open licensing of content.
-Since Universities are generally the recipient of the grant and approve its content, a resource sharing plan can legally obligate a University to allow researchers to openly license their research.
-Furthermore, an explicit resource sharing plan can prevent delays associated with receiving licensing approval from your University's licensing office.
+Examples are located in [`examples`](examples).
+
+## Motivations
+
+A good resource sharing plan helps avoid unanticipated hurdles and disagreements when it's time to release project content.
+An explicit plan ensures that the Universities, Investigators, and Funders involved in a grant are all on the same page regarding resource sharing.
+Having a straightforward licensing arrangement can avoid delays down the road when seeking licensing approval from your University.
+Resource sharing plans can impose legally-binding obligations for University's to openly license research.
+Finally, a plan that commits to openness can make your proposal more attractive to funders.
 
 ## Reuse
 
 The goal of this resource to help spread best practices in research sharing.
 Hence, it's released under a [CC0 public domain dedication](LICENSE.md).
 Please use or modify its content in any way you see fit.
-You are not required to attribute this repository when reusing its contents.
+You are not required to attribute the resource sharing plans to use them.
 However, feedback is appreciated.
-If you receive comments on your grant related to these resource sharing plans, we'd love to know.
+For example, if you receive comments on your grant related to these resource sharing plans, we'd love to know.
 
 ## Disclaimer
 
