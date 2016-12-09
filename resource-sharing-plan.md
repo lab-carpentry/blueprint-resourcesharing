@@ -13,4 +13,4 @@ However, no inputs will be incorporated that prevent original software from bein
 
 Source code will be made available on a publicly accessible version control system, such as GitHub.
 Prior to submission of project manuscripts to a journal, all related outputs will be made publicly available under the aforementioned licensing guidelines and deposited to persistent archives.
-Currently, the group uses [_Zenodo_](https://zenodo.org/) for code repositories, [_figshare_](https://figshare.com/) for datasets, and [_bioRxiv_](http://biorxiv.org/) for preprints, however the group may transition to an alternative if a superior option becomes available during the course of the grant.
+Currently, the group uses [_Zenodo_](https://zenodo.org/) for code repositories, [_figshare_](https://figshare.com/) for datasets, and [_bioRxiv_](http://biorxiv.org/) for preprints, however the group may transition to alternatives if other options become more suitable during the course of the grant.
