@@ -4,7 +4,7 @@ This repository contains a [template resource sharing plan](resource-sharing-pla
 The goal of the plan is to ensure project content created under the grant is openly released.
 
 In instances where the University owns content produced under the grant, a well-crafted resource sharing plan is often the best way to ensure the open licensing of content.
-Since Universities are generally the recipient of the grant and approve its content, a resource sharing plan can legally obligate a University allow the researchers to openly license their research.
+Since Universities are generally the recipient of the grant and approve its content, a resource sharing plan can legally obligate a University to allow researchers to openly license their research.
 Furthermore, an explicit resource sharing plan can prevent delays associated with receiving licensing approval from your University's licensing office.
 
 ## Disclaimer
