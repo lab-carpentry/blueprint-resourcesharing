@@ -1,10 +1,15 @@
-# NIH Resource Sharing Plan
+# NIH example for open licensing
 
 This resource sharing plan was written by Daniel Himmelstein and Casey Greene in December 2016 for an NIH grant proposal.
 The grant's field was biomedical informatics (Grant Number HG009516).
-This plan commits to the open licensing of project content and makes a firm commitment to openness.
+
+This plan largely focuses on ensuring the open licensing of project outputs.
+Carly Strasser — a Program Officer for the [Data-Driven Discovery Initiative](https://www.moore.org/initiative-strategy-detail?initiativeId=data-driven-discovery) at the Gordon & Betty Moore Foundation — [suggests](https://github.com/lab-carpentry/blueprint-resourcesharing/pull/1#issuecomment-266153553) adding more details regarding your specific data outputs and corresponding sharing plans.
+For inspiration, see the [Digital Curation Centre guide](http://www.dcc.ac.uk/resources/how-guides/develop-data-plan "How to Develop a Data Management and Sharing Plan") or [public Data Management Plans](https://dmptool.org/public_dmps "DMPTool").
 
 ***
+
+## Resource Sharing Plan
 
 All outputs from this project — including code, data, figures, documentation, and manuscripts — will be made publicly available under an open license.
 Code will be released under a [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause), a permissive open source software license.
