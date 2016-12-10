@@ -10,8 +10,8 @@ Examples are located in [`examples`](examples).
 A good resource sharing plan helps avoid unanticipated hurdles and disagreements when it's time to release project content.
 An explicit plan ensures that the Universities, Investigators, and Funders involved in a grant are all on the same page regarding resource sharing.
 Having a straightforward licensing arrangement can avoid delays down the road when seeking licensing approval from your University.
-Resource sharing plans can impose legally-binding obligations for University's to openly license research.
-Finally, a plan that commits to openness can make your proposal more attractive to funders.
+Resource sharing plans can impose legally-binding obligations for Universities to openly license research.
+Finally, a plan that commits to openness should make your proposal more attractive to funders.
 
 ## Reuse
 
@@ -19,7 +19,7 @@ The goal of this resource to help spread best practices in research sharing.
 Hence, it's released under a [CC0 public domain dedication](LICENSE.md).
 Please use or modify its content in any way you see fit.
 You are not required to attribute the resource sharing plans to use them.
-However, feedback is appreciated.
+However, feedback is appreciated, preferably via [GitHub Issues](https://github.com/lab-carpentry/blueprint-resourcesharing/issues).
 For example, if you receive comments on your grant related to these resource sharing plans, we'd love to know.
 
 ## Contributing
