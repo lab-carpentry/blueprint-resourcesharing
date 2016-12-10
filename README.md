@@ -22,6 +22,12 @@ You are not required to attribute the resource sharing plans to use them.
 However, feedback is appreciated.
 For example, if you receive comments on your grant related to these resource sharing plans, we'd love to know.
 
+## Contributing
+
+Do you have a research sharing plan you'd like to contribute?
+Then, submit a pull request that adds your plan to [`examples`](examples).
+Contributed plans are subject to review.
+
 ## Disclaimer
 
 **This repository is for informational purposes only and does not provide legal advice.**

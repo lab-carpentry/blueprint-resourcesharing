@@ -1,4 +1,10 @@
-# Resource sharing plan template
+# NIH Resource Sharing Plan
+
+This resource sharing plan was written by Daniel Himmelstein and Casey Greene in December 2016 for an NIH grant proposal.
+The grant's field was biomedical informatics (Grant Number HG009516).
+This plan commits to the open licensing of project content and makes a firm commitment to openness.
+
+***
 
 All outputs from this project — including code, data, figures, documentation, and manuscripts — will be made publicly available under an open license.
 Code will be released under a [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause), a permissive open source software license.
