@@ -8,9 +8,9 @@ Examples are located in [`examples`](examples).
 ## Motivations
 
 A good resource sharing plan helps avoid unanticipated hurdles and disagreements when it's time to release project content.
-An explicit plan ensures that the Universities, Investigators, and Funders involved in a grant are all on the same page regarding resource sharing.
-Having a straightforward licensing arrangement can avoid delays down the road when seeking licensing approval from your University.
-Resource sharing plans can impose legally-binding obligations for Universities to openly license research.
+An explicit plan ensures that the universities, investigators, and funders involved in a grant are all on the same page regarding resource sharing.
+Having a straightforward licensing arrangement can avoid delays down the road when seeking licensing approval from your university.
+Resource sharing plans can impose legally-binding obligations for universities to openly license research.
 Finally, a plan that commits to openness should make your proposal more attractive to funders.
 
 ## Reuse
