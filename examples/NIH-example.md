@@ -16,7 +16,7 @@ While this sharing plan likely takes precedence due to its specificity, it's mes
 
 ## Resource Sharing Plan
 
-All outputs from this project — including code, data, figures, and documentation — will be made publicly available under an open license as soon as a stable version is available or an associated manuscript is published, whichever is earlier.
+All outputs from this project — including code, data, figures, and documentation — will be made publicly available under an open license as soon as a stable version is available or the first associated manuscript is published, whichever is earlier.
 Code will be released under a [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause), a permissive open source software license.
 Data will be released under the Creative Commons Public Domain Dedication (CC0, [version 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode "CC0 1.0 Universal") or later).
 Figures, documentation, and writing (including preprints) will be released under a Creative Commons Attribution License ([version 4.0](https://creativecommons.org/licenses/by/4.0/legalcode "Creative Commons Attribution 4.0 International Public License") or later).
