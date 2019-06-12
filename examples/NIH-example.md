@@ -10,7 +10,7 @@ For inspiration, see the [Digital Curation Centre guide](http://www.dcc.ac.uk/re
 
 In addition, we recommend exercising caution when combining this sharing plan with boilerplate text provided by your institution.
 In [some cases](https://github.com/lab-carpentry/blueprint-resourcesharing/issues/4#issuecomment-379023061), universities include text declaring their intention to exclusively control intellectual property resulting from the award.
-While this sharing plan likely takes precedence due to its specificity, it's message may be diluted if combined with a defense of proprietary control of publicly-funded outputs.
+While this sharing plan likely takes precedence due to its specificity, its message may be diluted if combined with a defense of proprietary control of publicly funded outputs.
 
 ***
 
